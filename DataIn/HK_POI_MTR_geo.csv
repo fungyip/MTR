@@ -1,0 +1,91 @@
+Category,Stations,Address,District,Opened,Code,lon,lat
+Airport Express,Airport,"Airport Station, Islands, Hong Kong",Islands,1998,AIR,113.936503,22.316058
+Airport Express,AsiaWorld Expo,"AsiaWorld Expo Station, Islands, Hong Kong",Islands,2005,AWE,113.941218,22.321812
+Airport Express,Hong Kong,"Hong Kong Station, Central and Western, Hong Kong",Central and Western,1998,HOK,114.1581596,22.2846814
+Airport Express,Kowloon,"Kowloon Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1998,KOW,114.161475,22.304306
+Disneyland Resort Line,Disneyland Resort,"Disneyland Resort Station, Tsuen Wan, Hong Kong",Tsuen Wan,2005,DIS,114.0451822,22.3154287
+East Rail Line,Fanling,"Fanling Station, North, Hong Kong",North,1910,FAN,114.138691,22.492073
+East Rail Line,Fo Tan,"Fo Tan Station, Sha Tin, Hong Kong",Sha Tin,1985,FOT,114.198037,22.395003
+East Rail Line,Kwu Tung,"Kwu Tung Station, North, Hong Kong",North,2023,KTU,114.102021,22.5036
+East Rail Line,Lo Wu,"Lo Wu Station, North, Hong Kong",North,1949,LOW,114.113192,22.527801
+East Rail Line,Lok Ma Chau,"Lok Ma Chau Station, Yuen Long, Hong Kong",Yuen Long,2007,LMC,114.065647,22.514464
+East Rail Line,Mong Kok East,"Mong Kok East Station, Yau Tsim Mong/Kowloon City, Hong Kong",Yau Tsim Mong,1910,MKK,114.172478,22.32192
+East Rail Line,Racecourse,"Racecourse Station, Sha Tin, Hong Kong",Sha Tin,1978,RAC,114.2031435,22.400779
+East Rail Line,Sha Tin,"Sha Tin Station, Sha Tin, Hong Kong",Sha Tin,1910,SHT,114.186856,22.382049
+East Rail Line,Sheung Shui,"Sheung Shui Station, North, Hong Kong",North,1913,SHS,114.127945,22.501257
+East Rail Line,Tai Po Market,"Tai Po Market Station, Tai Po, Hong Kong",Tai Po,1983,TAP,114.1704893,22.4445559
+East Rail Line,Tai Wai,"Tai Wai Station, Sha Tin, Hong Kong",Sha Tin,1983,TAW,114.1786167,22.3727071
+East Rail Line,Tai Wo,"Tai Wo Station, Tai Po, Hong Kong",Tai Po,1989,TWO,114.16135,22.450932
+East Rail Line,University,"University Station, Sha Tin, Hong Kong",Sha Tin,1956,UNI,114.2101754,22.4135158
+Island Line,Admiralty,"Admiralty Station, Central and Western, Hong Kong",Central and Western,1980,ADM,114.164559,22.279412
+Island Line,Causeway Bay,"Causeway Bay Station, Wan Chai, Hong Kong",Wan Chai,1985,CAB,114.1850741,22.2803523
+Island Line,Central,"Central Station, Central and Western, Hong Kong",Central and Western,1980,CEN,114.157775,22.282079
+Island Line,Chai Wan,"Chai Wan Station, Eastern, Hong Kong",Eastern,1985,CHW,114.237139,22.264625
+Island Line,Fortress Hill,"Fortress Hill Station, Eastern, Hong Kong",Eastern,1985,FOH,114.193661,22.287913
+Island Line,Heng Fa Chuen,"Heng Fa Chuen Station, Eastern, Hong Kong",Eastern,1985,HFC,114.239701,22.276666
+Island Line,HKU,"HKU Station, Central and Western, Hong Kong",Central and Western,2014,HKU,114.1325949,22.285779
+Island Line,Kennedy Town,"Kennedy Town Station, Central and Western, Hong Kong",Central and Western,2014,KET,114.128979,22.2812789
+Island Line,North Point,"North Point Station, Eastern, Hong Kong",Eastern,1985,NOP,114.2004322,22.2909416
+Island Line,Quarry Bay,"Quarry Bay Station, Eastern, Hong Kong",Eastern,1985,QUB,114.208713,22.28858
+Island Line,Sai Wan Ho,"Sai Wan Ho Station, Eastern, Hong Kong",Eastern,1985,SWH,114.221905,22.282096
+Island Line,Sai Ying Pun,"Sai Ying Pun Station, Central and Western, Hong Kong",Central and Western,2015,SYP,114.142733,22.285533
+Island Line,Shau Kei Wan,"Shau Kei Wan Station, Eastern, Hong Kong",Eastern,1985,SKW,114.228921,22.279189
+Island Line,Sheung Wan,"Sheung Wan Station, Central and Western, Hong Kong",Central and Western,1986,SHW,114.1520238,22.2866541
+Island Line,Tai Koo,"Tai Koo Station, Eastern, Hong Kong",Eastern,1985,TAK,114.2155328,22.2847444
+Island Line,Tin Hau,"Tin Hau Station, Wan Chai, Hong Kong",Wan Chai,1985,TIH,114.1917796,22.2823979
+Island Line,Wan Chai,"Wan Chai Station, Wan Chai, Hong Kong",Wan Chai,1985,WAC,114.1726689,22.2773823
+Kwun Tong Line,Choi Hung,"Choi Hung Station, Wong Tai Sin/Kwun Tong, Hong Kong",Wong Tai Sin,1979,CHH,114.20905,22.334969
+Kwun Tong Line,Diamond Hill,"Diamond Hill Station, Wong Tai Sin, Hong Kong",Wong Tai Sin,1979,DIH,114.201698,22.340017
+Kwun Tong Line,Ho Man Tin,"Ho Man Tin Station, Kowloon City, Hong Kong",Kowloon City,2016,HOM,114.1827181,22.3094035
+Kwun Tong Line,Kowloon Bay,"Kowloon Bay Station, Kwun Tong, Hong Kong",Kwun Tong,1979,KOB,114.2140758,22.323502
+Kwun Tong Line,Kowloon Tong,"Kowloon Tong Station, Sham Shui Po/Kowloon City, Hong Kong",Sham Shui Po,1979,KOT,114.175852,22.336918
+Kwun Tong Line,Kwun Tong,"Kwun Tong Station, Kwun Tong, Hong Kong",Kwun Tong,1979,KWT,114.2263985,22.312205
+Kwun Tong Line,Lam Tin,"Lam Tin Station, Kwun Tong, Hong Kong",Kwun Tong,1989,LAT,114.232733,22.306855
+Kwun Tong Line,Lok Fu,"Lok Fu Station, Wong Tai Sin, Hong Kong",Wong Tai Sin,1979,LOF,114.187022,22.338026
+Kwun Tong Line,Mong Kok,"Mong Kok Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1982,MOK,114.1692081,22.3194068
+Kwun Tong Line,Ngau Tau Kok,"Ngau Tau Kok Station, Kwun Tong, Hong Kong",Kwun Tong,1979,NTK,114.2191418,22.3154622
+Kwun Tong Line,Shek Kip Mei,"Shek Kip Mei Station, Sham Shui Po, Hong Kong",Sham Shui Po,1979,SKM,114.168813,22.331728
+Kwun Tong Line,Tiu Keng Leng,"Tiu Keng Leng Station, Sai Kung, Hong Kong",Sai Kung,2002,TIK,114.252098,22.3038
+Kwun Tong Line,Whampoa,"Whampoa Station, Kowloon City, Hong Kong",Kowloon City,2016,WHA,114.189552,22.305032
+Kwun Tong Line,Wong Tai Sin,"Wong Tai Sin Station, Wong Tai Sin, Hong Kong",Wong Tai Sin,1979,WTS,114.1929483,22.3415704
+Ma On Shan Line,Che Kung Temple,"Che Kung Temple Station, Sha Tin, Hong Kong",Sha Tin,2004,CKT,114.185953,22.37476
+Ma On Shan Line,City One,"City One Station, Sha Tin, Hong Kong",Sha Tin,2004,CIO,114.20349,22.38282
+Ma On Shan Line,Heng On,"Heng On Station, Sha Tin, Hong Kong",Sha Tin,2004,HEO,114.225701,22.417319
+Ma On Shan Line,Ma On Shan,"Ma On Shan Station, Sha Tin, Hong Kong",Sha Tin,2004,MOS,114.23163,22.424807
+Ma On Shan Line,Sha Tin Wai,"Sha Tin Wai Station, Sha Tin, Hong Kong",Sha Tin,2004,STW,114.194762,22.3769541
+Ma On Shan Line,Shek Mun,"Shek Mun Station, Sha Tin, Hong Kong",Sha Tin,2004,SHM,114.2084138,22.387773
+Ma On Shan Line,Tai Shui Hang,"Tai Shui Hang Station, Sha Tin, Hong Kong",Sha Tin,2004,TSH,114.222716,22.408425
+Ma On Shan Line,Wu Kai Sha,"Wu Kai Sha Station, Sha Tin, Hong Kong",Sha Tin,2004,WKS,114.243841,22.429145
+Tseung Kwan O Line,Hang Hau,"Hang Hau Station, Sai Kung, Hong Kong",Sai Kung,2002,HAH,114.264393,22.315596
+Tseung Kwan O Line,LOHAS Park,"LOHAS Park Station, Sai Kung, Hong Kong",Sai Kung,2009,LHP,114.2686,22.295398
+Tseung Kwan O Line,Po Lam,"Po Lam Station, Sai Kung, Hong Kong",Sai Kung,2002,POA,114.257832,22.322511
+Tseung Kwan O Line,Tseung Kwan O,"Tseung Kwan O Station, Sai Kung, Hong Kong",Sai Kung,2002,TKO,114.260018,22.307436
+Tseung Kwan O Line,Yau Tong,"Yau Tong Station, Kwun Tong, Hong Kong",Kwun Tong,2002,YAT,114.236966,22.298112
+Tsuen Wan Line,Cheung Sha Wan,"Cheung Sha Wan Station, Sham Shui Po, Hong Kong",Sham Shui Po,1982,CSW,114.1564582,22.3355438
+Tsuen Wan Line,Jordan,"Jordan Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1979,JOR,114.1715215,22.3042744
+Tsuen Wan Line,Kwai Fong,"Kwai Fong Station, Kwai Tsing, Hong Kong",Kwai Tsing,1982,KWF,114.127693,22.356718
+Tsuen Wan Line,Kwai Hing,"Kwai Hing Station, Kwai Tsing, Hong Kong",Kwai Tsing,1982,KWH,114.131207,22.363056
+Tsuen Wan Line,Lai Chi Kok,"Lai Chi Kok Station, Sham Shui Po, Hong Kong",Sham Shui Po,1982,LCK,114.1483061,22.3375026
+Tsuen Wan Line,Lai King,"Lai King Station, Kwai Tsing, Hong Kong",Kwai Tsing,1982,LAK,114.126161,22.348416
+Tsuen Wan Line,Prince Edward,"Prince Edward Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1982,PRE,114.1683631,22.3250785
+Tsuen Wan Line,Sham Shui Po,"Sham Shui Po Station, Sham Shui Po, Hong Kong",Sham Shui Po,1982,SSP,114.1617967,22.3310009
+Tsuen Wan Line,Tai Wo Hau,"Tai Wo Hau Station, Kwai Tsing/Tsuen Wan, Hong Kong",Kwai Tsing,1982,TWH,114.124951,22.370758
+Tsuen Wan Line,Tsim Sha Tsui,"Tsim Sha Tsui Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1979,TST,114.172175,22.297604
+Tsuen Wan Line,Tsuen Wan,"Tsuen Wan Station, Tsuen Wan, Hong Kong",Tsuen Wan,1982,TSW,114.11778,22.373644
+Tsuen Wan Line,Yau Ma Tei,"Yau Ma Tei Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1979,YMT,114.1705828,22.3133688
+Tung Chung Line,Olympic,"Olympic Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,1998,OLY,114.16022,22.317771
+Tung Chung Line,Sunny Bay,"Sunny Bay Station, Tsuen Wan, Hong Kong",Tsuen Wan,2005,SUN,114.0288927,22.3317535
+Tung Chung Line,Tsing Yi,"Tsing Yi Station, Kwai Tsing, Hong Kong",Kwai Tsing,1998,TSY,114.107261,22.358487
+Tung Chung Line,Tung Chung,"Tung Chung Station, Islands, Hong Kong",Islands,1998,TUC,113.941269,22.289163
+West Rail Line,Austin,"Austin Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,2009,AUS,114.16627,22.304981
+West Rail Line,East Tsim Sha Tsui,"East Tsim Sha Tsui Station, Yau Tsim Mong, Hong Kong",Yau Tsim Mong,2004,ETS,114.174586,22.295263
+West Rail Line,Hung Hom,"Hung Hom Station, Yau Tsim Mong/Kowloon City, Hong Kong",Yau Tsim Mong,1975,HUH,114.1822172,22.3028696
+West Rail Line,Kam Sheung Road,"Kam Sheung Road Station, Yuen Long, Hong Kong",Yuen Long,2003,KSR,114.0627851,22.4349112
+West Rail Line,Long Ping,"Long Ping Station, Yuen Long, Hong Kong",Yuen Long,2003,LOP,114.02485,22.44766
+West Rail Line,Mei Foo,"Mei Foo Station, Sham Shui Po, Hong Kong",Sham Shui Po,2003,MEF,114.136401,22.337751
+West Rail Line,Nam Cheong,"Nam Cheong Station, Sham Shui Po, Hong Kong",Sham Shui Po,2003,NAC,114.1536799,22.3267772
+West Rail Line,Siu Hong,"Siu Hong Station, Tuen Mun, Hong Kong",Tuen Mun,2003,SIH,113.978772,22.411341
+West Rail Line,Tin Shui Wai,"Tin Shui Wai Station, Yuen Long, Hong Kong",Yuen Long,2003,TIS,114.004687,22.448281
+West Rail Line,Tsuen Wan West,"Tsuen Wan West Station, Tsuen Wan, Hong Kong",Tsuen Wan,2003,TWW,114.10978,22.368313
+West Rail Line,Tuen Mun,"Tuen Mun Station, Tuen Mun, Hong Kong",Tuen Mun,2003,TUM,113.973132,22.394875
+West Rail Line,Yuen Long,"Yuen Long Station, Yuen Long, Hong Kong",Yuen Long,2003,YUL,114.034706,22.446113

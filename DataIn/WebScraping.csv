@@ -1,0 +1,165 @@
+V1,V2,V3,V4,V5,V6,V7,V8
+Livery,Name,Photo,Connections,District,Opened,Code,Notes
+,Lo Wu,,,North,14 October 1949,LOW,[a]
+,Lok Ma Chau,,,Yuen Long,15 August 2007,LMC,[b]
+,Sheung Shui,,,North,16 May 1930,SHS,
+,Fanling,,,North,1 October 1910,FAN,
+,Tai Wo,,,Tai Po,9 May 1989,TWO,
+,Tai Po Market,,,Tai Po,7 April 1983,TAP,[c]
+,Universityformerly Ma Liu Shui,,,Sha Tin,24 September 1956,UNI,[d]
+,Racecourse,,,Sha Tin,7 October 1978,RAC,[e][f]
+,Fo Tan,,,Sha Tin,15 February 1985,FOT,[f]
+,Sha Tin,,,Sha Tin,1 October 1910,SHT,
+,Tai Wai,,     Ma On Shan Line,Sha Tin,15 August 1983,TAW,
+,Kowloon Tong,,     Kwun Tong Line,Sham Shui Po/Kowloon City,6 May 1982,KOT,[13]
+,Mong Kok Eastformerly Mong Kok,,,Yau Tsim Mong/Kowloon City,1 October 1910,MKK,[g][h]
+,Hung Homformerly Kowloon,,     West Rail Line,Yau Tsim Mong/Kowloon City,30 November 1975,HUH,[i]
+Livery,Name,Photo,Connections,District,Opened,Code,Notes
+,Whampoa,,,Kowloon City,23 October 2016,WHA,
+,Ho Man Tin,,,Kowloon City,23 October 2016,HOM,
+,Yau Ma Teiformerly Waterloo,,     Tsuen Wan Line,Yau Tsim Mong,10 May 1982,YMT,[j]
+,Mong Kokformerly Argyle,,     Tsuen Wan Line,Yau Tsim Mong,10 May 1982,MOK,[h]
+,Prince Edward,,     Tsuen Wan Line,Yau Tsim Mong,10 May 1982,PRE,
+,Shek Kip Mei,,,Sham Shui Po,1 October 1979,SKM,
+,Kowloon Tong,,     East Rail Line,Sham Shui Po/Kowloon City,1 October 1979,KOT,
+,Lok Fu,,,Wong Tai Sin,1 October 1979,LOF,
+,Wong Tai Sin,,,Wong Tai Sin,1 October 1979,WTS,
+,Diamond Hill,,,Wong Tai Sin,1 October 1979,DIH,
+,Choi Hung,,,Wong Tai Sin/Kwun Tong,1 October 1979,CHH,
+,Kowloon Bay,,,Kwun Tong,1 October 1979,KOB,
+,Ngau Tau Kok,,,Kwun Tong,1 October 1979,NTK,
+,Kwun Tong,,,Kwun Tong,1 October 1979,KWT,
+,Lam Tin,,,Kwun Tong,1 October 1989,LAT,
+,Yau Tong,,     Tseung Kwan O Line,Kwun Tong,4 August 2002,YAT,
+,Tiu Keng Leng,,     Tseung Kwan O Line,Sai Kung,18 August 2002,TIK,
+Livery,Name,Photo,Connections,District,Opened,Code,Notes
+,Tsuen Wan,,,Tsuen Wan,10 May 1982,TSW,[k]
+,Tai Wo Hau,,,Kwai Tsing/Tsuen Wan,10 May 1982,TWH,
+,Kwai Hing,,,Kwai Tsing,10 May 1982,KWH,
+,Kwai Fong,,,Kwai Tsing,10 May 1982,KWF,
+,Lai King,,     Tung Chung Line,Kwai Tsing,10 May 1982,LAK,
+,Mei Foo,,     West Rail Line,Sham Shui Po,17 May 1982,MEF,
+,Lai Chi Kok,,,Sham Shui Po,17 May 1982,LCK,
+,Cheung Sha Wan,,,Sham Shui Po,17 May 1982,CSW,
+,Sham Shui Po,,,Sham Shui Po,17 May 1982,SSP,
+,Prince Edward,,     Kwun Tong Line,Yau Tsim Mong,10 May 1982,PRE,
+,Mong Kokformerly Argyle,,     Kwun Tong Line,Yau Tsim Mong,31 December 1979,MOK,[h]
+,Yau Ma Teiformerly Waterloo,,     Kwun Tong Line,Yau Tsim Mong,31 December 1979,YMT,
+,Jordan,,,Yau Tsim Mong,31 December 1979,JOR,
+,Tsim Sha Tsui,,Transfer to      West Rail Line,via East Tsim Sha Tsui Station,Yau Tsim Mong,31 December 1979,TST
+,,Admiralty,,     Island Line     South Island Line,Central and Western,12 February 1980,ADM
+,,Centralformerly Chater ,,     Island LineTransfer to      Tung Chung Line and      Airport Express,via Hong Kong Station,Central and Western,12 February 1980
+CEN,,Livery,Name,Photo,Connections,District,Opened
+Code,,Kennedy Town,,,Central and Western,28 December 2014,KET
+,HKU,,,Central and Western,28 December 2014,HKU,
+Sai Ying Pun,,,Central and Western,29 March 2015,SYP,,Sheung Wan
+,,Central and Western,23 May 1986,SHW,,Central,
+     Tsuen Wan LineTransfer to      Tung Chung Line and      Airport Express,via Hong Kong Station,Central and Western,23 May 1986,CEN,,Admiralty,
+     Tsuen Wan Line     South Island Line,Central and Western,31 May 1985,ADM,,Wan Chai,,
+Wan Chai,31 May 1985,WAC,,Causeway Bay,,,Wan Chai
+31 May 1985,CAB,,Tin Hau,,,Wan Chai,31 May 1985
+TIH,,Fortress Hill,,,Eastern,31 May 1985,FOH
+,North Point,,     Tseung Kwan O Line,Eastern,31 May 1985,NOP,
+Quarry Bay,,     Tseung Kwan O Line,Eastern,31 May 1985,QUB,,Tai Koo
+,,Eastern,31 May 1985,TAK,,Sai Wan Ho,
+,Eastern,31 May 1985,SWH,,Shau Kei Wan,,
+Eastern,31 May 1985,SKW,,Heng Fa Chuen,,,Eastern
+31 May 1985,HFC,,Chai Wan,,,Eastern,31 May 1985
+CHW,Livery,Name,Photo,Connections,District,Opened,Code
+Notes,,Tung Chung,,Ngong Ping 360,Islands,21 June 1998,TUC
+[l],,Sunny Bay,,     Disneyland Resort Line,Tsuen Wan,1 June 2005,SUN
+,,Tsing Yi,,     Airport Express,Kwai Tsing,21 June 1998,TSY
+[l],,Lai King,,     Tsuen Wan Line,Kwai Tsing,21 June 1998,LAK
+[l],,Nam Cheong,,     West Rail Line,Sham Shui Po,20 December 2003,NAC
+,,Olympic,,,Yau Tsim Mong,21 June 1998,OLY
+[l],,Kowloon,,     Airport Express,Yau Tsim Mong,21 June 1998,KOW
+[l][m],,Hong Kong,,     Airport ExpressTransfer to      Tsuen Wan Line and      Island Line,via Central Station,Central and Western,21 June 1998
+HOK,[l],Livery,Name,Photo,Connections,District,Opened
+Code,Notes,,AsiaWorld–Expo,,,Islands,20 December 2005
+AWE,,,Airport,,,Islands,6 July 1998
+AIR,,,Tsing Yi,,     Tung Chung Line,Kwai Tsing,21 June 1998
+TSY,[l],,Kowloon,,     Tung Chung Line,Yau Tsim Mong,21 June 1998
+KOW,[l][m],,Hong Kong,,     Tung Chung LineTransfer to      Tsuen Wan Line and      Island Line,via Central Station,Central and Western
+21 June 1998,HOK,[l],Livery,Name,Photo,Connections,District
+Opened,Code,,Po Lam,,,Sai Kung,18 August 2002
+POA,,Hang Hau,,,Sai Kung,18 August 2002,HAH
+,LOHAS Park,,,Sai Kung,26 July 2009,LHP,
+Tseung Kwan O,,,Sai Kung,18 August 2002,TKO,,Tiu Keng Leng
+,     Kwun Tong Line,Sai Kung,18 August 2002,TIK,,Yau Tong,
+     Kwun Tong Line,Kwun Tong,4 August 2002,YAT,,Quarry Bay,,     Island Line
+Eastern,6 August 1989,QUB,,North Point,,     Island Line,Eastern
+27 September 2001,NOP,Livery,Name,Photo,Connections,District,Opened
+Code,Notes,,Tuen Mun,,Transfer to      Light Rail  505   507   751 ,at Tuen Mun Stop,Tuen Mun
+20 December 2003,TUM,,,Siu Hong,,Transfer to      Light Rail  505   610   614   614P   615   615P   751 ,at Siu Hong Stop
+Tuen Mun,20 December 2003,SIH,,,Tin Shui Wai,,Transfer to      Light Rail  705   706   751   751P 
+at Tin Shui Wai Stop,Yuen Long,20 December 2003,TIS,,,Long Ping,
+,Yuen Long,20 December 2003,LOP,,,Yuen Long,
+Transfer to      Light Rail  610   614   615   761P ,at Yuen Long Stop,Yuen Long,20 December 2003,YUL,,,Kam Sheung Road
+,,Yuen Long,20 December 2003,KSR,[n],,Tsuen Wan West
+,,Tsuen Wan,20 December 2003,TWW,[o],,Mei Foo
+,     Tsuen Wan Line,Sham Shui Po,20 December 2003,MEF,,,Nam Cheong
+,     Tung Chung Line,Sham Shui Po,20 December 2003,NAC,,,Austin
+,,Yau Tsim Mong,16 August 2009,AUS,[m],,East Tsim Sha Tsui
+,Transfer to      Tsuen Wan Line,via Tsim Sha Tsui Station,Yau Tsim Mong,24 October 2004,ETS,,
+Hung Hom,,     East Rail Line,Yau Tsim Mong/Kowloon City,30 November 1975,HUH,,Livery
+Name,Photo,Connections,District,Opened,Code,,Wu Kai Sha
+,,Sha Tin,21 December 2004,WKS,,Ma On Shan,
+,Sha Tin,21 December 2004,MOS,,Heng On,,
+Sha Tin,21 December 2004,HEO,,Tai Shui Hang,,,Sha Tin
+21 December 2004,TSH,,Shek Mun,,,Sha Tin,21 December 2004
+SHM,,City One,,,Sha Tin,21 December 2004,CIO
+,Sha Tin Wai,,,Sha Tin,21 December 2004,STW,
+Che Kung Temple,,,Sha Tin,21 December 2004,CKT,,Tai Wai
+,     East Rail Line,Sha Tin,21 December 2004,TAW,Livery,Name,Photo
+Connections,District,Opened,Code,,Disneyland Resort,,
+Tsuen Wan,1 August 2005,DIS,,Sunny Bay,,     Tung Chung Line,Tsuen Wan
+1 June 2005,SUN,Livery,Name,Photo,Connections,District,Opened
+Code,,South Horizons,,,Southern District,28 December 2016,SOH
+,Lei Tung,,,Southern District,28 December 2016,LET,
+Wong Chuk Hang,,,Southern District,28 December 2016,WCH,,Ocean Park
+,,Southern District,28 December 2016,OCP,,Admiralty,
+     Tsuen Wan Line     Island Line,Central and Western,28 December 2016,ADM,,,v,t
+e,,MTR Light Rail stops,,,Fare zone 1,,
+Tuen Mun Ferry Pier,Melody Garden,Butterfly,Light Rail Depot,Lung Mun,Siu Hei,Tuen Mun Swimming Pool,Goodview Garden
+Siu Lun,Sam Shing,,,,Fare zone 2,,
+Tsing Shan Tsuen,Tsing Wun,Kin On,Ho Tin,Choy Yee Bridge,Affluence,Shan King (North),Shan King (South)
+Ming Kum,Shek Pai,Tai Hing (South),Tai Hing (North),Ngan Wai,On Ting,Yau Oi,Town Centre
+Tuen Mun     ,Pui To,Hoh Fuk Tong,San Hui,Prime View,,,
+Fare zone 3,,,Tuen Mun Hospital,Siu Hong     ,Kei Lun,Ching Chung,Kin Sang
+Tin King,Leung King,San Wai,Fung Tei,Lam Tei,Nai Wai,Chung Uk Tsuen,
+,,Fare zone 4,,,Hung Shui Kiu,Tong Fong Tsuen,Ping Shan
+Hang Mei Tsuen,Tin Shui Wai     ,Tin Tsz,Tin Yiu,Locwood,Tin Wu,Ginza,Tin Shui
+Chestwood,Tin Wing,,,,Fare zone 5A,,
+Chung Fu,Tin Fu,Tin Yuet,Tin Sau,Wetland Park,Tin Heng,Tin Yat,
+,,Fare zone 5,,,Shui Pin Wai,Fung Nin Road,Hong Lok Road
+Tai Tong Road,Yuen Long     ,,,,,v,t
+e,,Hong Kong MTR system,,,,,List of stations
+MTR Corporation,,,,Rail service,,,Lines
+,,Rapid transit,,,     Disneyland Resort Line,     East Rail Line,     Island Line
+     Kwun Tong Line,     Ma On Shan Line,     South Island Line,     Tseung Kwan O Line,     Tsuen Wan Line,     Tung Chung Line,     West Rail Line,
+,,Airport rail link,,,     Airport Express,,
+,Light rail,,,     Light Rail,,,
+Cross-border,,,Guangdong Through Train,Shanghai Through Train *,Beijing Through Train *,,
+,Under construction,or planning,,,Northern Link,North Island Line,Sha Tin to Central Link
+South Island Line (West),East Kowloon Line,Guangzhou–Shenzhen–Hong Kong Express Rail Link,Full list,,,,
+Rolling,stock,,,         Adtranz–CAF EMU,                 CNR Changchun EMU: C-Train,     CNR Changchun EMU: S-Train,     Hyundai Rotem EMU
+     Metro Cammell EMU (AC),                     Metro Cammell EMU (DC),                 SP1900/1950 EMU, CSR Sifang EMU (XRL): CRH380A,         Rotem EMU,"                 CSR Sifang EMU (KTL, TWL, ISL, TKL)"," Lok 2000, KTT",     Light Rail Rolling Stock
+,,,Lines,,,Rapid transit,
+,     Disneyland Resort Line,     East Rail Line,     Island Line,     Kwun Tong Line,     Ma On Shan Line,     South Island Line,     Tseung Kwan O Line
+     Tsuen Wan Line,     Tung Chung Line,     West Rail Line,,,,Airport rail link,
+,     Airport Express,,,,Light rail,,
+     Light Rail,,,,Cross-border,,,Guangdong Through Train
+Shanghai Through Train *,Beijing Through Train *,,,,Under construction,or planning,
+,Northern Link,North Island Line,Sha Tin to Central Link,South Island Line (West),East Kowloon Line,Guangzhou–Shenzhen–Hong Kong Express Rail Link,Full list
+,,,Rapid transit,,,     Disneyland Resort Line,     East Rail Line
+     Island Line,     Kwun Tong Line,     Ma On Shan Line,     South Island Line,     Tseung Kwan O Line,     Tsuen Wan Line,     Tung Chung Line,     West Rail Line
+,,,Airport rail link,,,     Airport Express,
+,,Light rail,,,     Light Rail,,
+,Cross-border,,,Guangdong Through Train,Shanghai Through Train *,Beijing Through Train *,
+,,Under construction,or planning,,,Northern Link,North Island Line
+Sha Tin to Central Link,South Island Line (West),East Kowloon Line,Guangzhou–Shenzhen–Hong Kong Express Rail Link,Full list,,,
+Rolling,stock,,,         Adtranz–CAF EMU,                 CNR Changchun EMU: C-Train,     CNR Changchun EMU: S-Train,     Hyundai Rotem EMU
+     Metro Cammell EMU (AC),                     Metro Cammell EMU (DC),                 SP1900/1950 EMU, CSR Sifang EMU (XRL): CRH380A,         Rotem EMU,"                 CSR Sifang EMU (KTL, TWL, ISL, TKL)"," Lok 2000, KTT",     Light Rail Rolling Stock
+,,,Non-rail,service,,,Ngong Ping 360
+MTR Bus (Northwest New Territories),MTR Feeder Bus,Airport Express Shuttle Bus,,,,,
+ * Operated solely by trains from mainland China,,,Livery,Name,Photo,Connections,District
